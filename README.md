@@ -1,2 +1,2 @@
-# shopify
-shopify-karma
+# karma-store
+shopify-karma-store

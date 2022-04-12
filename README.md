@@ -1,2 +1,2 @@
 # shopify
-shopify-trial
+shopify-karma

@@ -134,12 +134,14 @@
           "image": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/CoffeeKarma-Logo_39ce8343-3e63-4394-901c-706e0df8e7d7.png",
               "image_width": 80,
               "alignment": "center"
             }
           },
           "link-list": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
@@ -148,18 +150,26 @@
           "text": {
             "type": "text",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Coffee Karma",
+              "subtext": "<p><em>godziny otwarcia:<\/em><\/p><p><strong>Sobota 15 sierpnia: 11:00 do 22:00<\/strong><\/p><p>pn.\/wt.\/śr.  8.00 - 20.00<\/p><p>czw.\/ptk.  8.00 - 22.30<\/p><p>sob. 10.00 - 22.30nd. 10.00 - 21.00<\/p>"
+            }
+          },
+          "683e7caf-d717-4e5a-a105-de5df5bab76e": {
+            "type": "text",
+            "settings": {
+              "heading": "Kontakt",
+              "subtext": "<p>tel: 22 8758709<\/p><p>warsawcoffee@gmail.com<\/p>"
             }
           }
         },
         "block_order": [
           "image",
           "link-list",
-          "text"
+          "text",
+          "683e7caf-d717-4e5a-a105-de5df5bab76e"
         ],
         "settings": {
-          "color_scheme": "accent-1",
+          "color_scheme": "inverse",
           "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
